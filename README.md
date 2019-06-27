@@ -4,3 +4,5 @@ Permutations is a mathematical term that relates to the act of arranging multipl
 This repo looks to identify permutations of Microsoft services. 
 
 I welcome the community to add to this list. 
+
+Please take care when blocking these domains, whilst I'm sure most (if not all), are not legitimate... there could be some that are legitimate (there are too many for me to individually verify).
